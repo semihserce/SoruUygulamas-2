@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="k1">Güneş sistemimizde 8 gezegen vardır?</string>
+    <string name="k2">Barış Manço hayatta mıdır?</string>
+    <string name="k3">Türkiye Dünya Kupasını 2014de kazandı mı?</string>
+    <string name="k4">Futbol dünyanın en çok oynanan ve izlenen sporu mu?</string>
+    <string name="k5">4/2 = 2x0?</string>
+    <string name="k6">İnsanların %11i solak mı?</string>
+    <string name="k7">Tüm böcekler 4 bacaklı mı?</string>
+    <string name="k8">Tüm sayıları 1-100 ile ardışık olarak eklerseniz (1 + 2 + 3.....)toplam 5050 yapar?</string>
+    <string name="k9">1 mil = 1.6 km?</string>
+    <string name="k10">Coca-Cola kafein içeriyor mu?</string>
+
+    <string name="o1">Merkür en küçük gezegendir?</string>
+    <string name="o2">2002 Dünya Kupası,Gianluigi Buffon altın topu kazanan ilk ve tek kaleci oldu?</string>
+    <string name="o3">Brezilya 1998 Dünya Kupasını kazandı mı?</string>
+    <string name="o4">Günlük gönderilen e-postaların %80den fazlası spam?</string>
+    <string name="o5">4*9 = 6x6?</string>
+    <string name="o6">Türkiye alfebesi 18 harfe sahip?</string>
+    <string name="o7">Brezilya bir ağacın adı mı?</string>
+    <string name="o8">İngilizce dilindeki en eski kelime şehir mi?</string>
+    <string name="o9">Uzayda ses yoktur?</string>
+    <string name="o10">Kağıdı japonlar bulmuştur?</string>
+
+    <string name="z1">Venüs en sıcak gezegendir?</string>
+    <string name="z2">Televizyonda yayınlanan ilk futbol oyunu Arsenel ve Liverpool(1937) arasında bir dostluk maçı oldu?</string>
+    <string name="z3">Fransa Dünya Kupasını 1982de kazandı?</string>
+    <string name="z4">Windowsun özgün adı Interface Manager mıydı?</string>
+    <string name="z5">(49/7)*2 = 32-(9*2)?</string>
+    <string name="z6">Bir ayının 42 dişi var mı?</string>
+    <string name="z7">Patates kızartması aslında Hollonda yapımı mı?</string>
+    <string name="z8">Ayın çapı 4476 km mi?</string>
+    <string name="z9">Her yıl güneş 360 milyon ton kaybeder?</string>
+    <string name="z10">Ağustos en yüksek doğum yüzdesine sahiptir?</string>
+
+
+</resources>

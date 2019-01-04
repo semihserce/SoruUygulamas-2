@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3498db"
+    tools:context=".ResultActivity">
+  <TextView
+      android:text="Bir dahaki sefere iyi şanslar"
+      android:layout_marginTop="30dp"
+      android:layout_centerHorizontal="true"
+      android:textSize="18sp"
+      android:id="@+id/tv_user"
+      android:textColor="#fff"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+    <TextView
+        android:text="points"
+        android:layout_centerInParent="true"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:id="@+id/yapilanpuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginTop="16dp"
+        android:text="En İyi Skor"
+        android:layout_below="@+id/yapilanpuan"
+        android:textSize="20sp"
+        android:id="@+id/bss"
+        android:layout_alignLeft="@id/home"
+        android:layout_alignStart="@id/home"
+        android:textColor="#fff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="En İyi Skor"
+        android:layout_alignStart="@id/bss"
+        android:layout_alignLeft="@id/bss"
+        android:layout_below="@id/bss"
+        android:id="@+id/eniyiskor"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="Ana sayfa"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/home"
+        android:textColor="#fff"
+        android:background="#9b59b6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>
